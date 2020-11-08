@@ -1,16 +1,16 @@
 # Site
 name: "na2nyi"
-title: "na2nyi"
-description: "완벽하지 않아도 충분히 행복한 날이었다"
+title: "지극히 개인적인 블로그"
+description: "HAPPY, HIPPY, JOY"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
 google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+ #disqus: 'demowebsite'
+ #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: lnani1758@gmail.com
 
 # Authors
 authors:
@@ -45,7 +45,7 @@ paginate: 6
 paginate_path: /page:num/
     
 # Other
-highlighter: none
+highlighter: rouge
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
