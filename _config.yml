@@ -1,9 +1,9 @@
 # Site
-name: "na2nyi"
+name: "지극히 개인적인 블로그"
 title: "지극히 개인적인 블로그"
 description: "HAPPY, HIPPY, JOY"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/sun_logo.png'
+favicon: 'assets/images/sun_logo.png'
 baseurl: ""
 google_analytics: 'UA-xxxxxxxx-1'
  #disqus: 'demowebsite'
