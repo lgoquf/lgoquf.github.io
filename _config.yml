@@ -15,8 +15,8 @@ email: lnani1758@gmail.com
 # Authors
 authors:
   Nanyi:
-    name: Nanyi
-    display_name: Nanyi
+    name: Nanyi Lee
+    display_name: na2nyi
    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: lnani1758@gmail.com
    # web: https://www.wowthemes.net/donate/
@@ -62,7 +62,7 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "disabled"
 
 # Post Author Box ("enabled" or "disabled")
-authorbox: "disabled"
+authorbox: "enabled"
 
 # Sass
 sass:
